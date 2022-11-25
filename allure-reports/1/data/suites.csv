@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Nov 11 19:04:12 MSK 2022","Fri Nov 11 19:04:27 MSK 2022","14873","","Login","","","","Login to the platform - check Enter Your Password text - positive",""
+"passed","Fri Nov 11 19:04:27 MSK 2022","Fri Nov 11 19:04:36 MSK 2022","8980","","Login","","","","Login to the platform - check Forgot password? text - positive",""
+"failed","Fri Nov 11 19:04:56 MSK 2022","Fri Nov 11 19:05:07 MSK 2022","11370","","Login 2","","","","Login to the platform - check Forgot any password? text - negative",""
+"failed","Fri Nov 11 19:04:40 MSK 2022","Fri Nov 11 19:04:56 MSK 2022","16058","","Login 2","","","","Login to the platform - check Enter Any Password text - negative",""
