@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Nov 25 15:55:52 UTC 2022","Fri Nov 25 15:55:59 UTC 2022","7556","","Login","","","","Login page - check 'Welcome' text is displayed - smoke",""
+"passed","Fri Nov 25 15:55:59 UTC 2022","Fri Nov 25 15:56:01 UTC 2022","1588","","Login","","","","Login page - check 'Login to the Pro platform' text is displayed - smoke",""
+"passed","Fri Nov 25 15:56:01 UTC 2022","Fri Nov 25 15:56:02 UTC 2022","1513","","Login","","","","Login page - check 'Continue' text is displayed - smoke & regression",""
