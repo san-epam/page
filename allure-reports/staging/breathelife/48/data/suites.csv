@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Nov 28 11:12:52 UTC 2022","Mon Nov 28 11:13:01 UTC 2022","8452","","Login","","","","Login page - check 'Welcome' text is displayed",""
+"passed","Mon Nov 28 11:13:02 UTC 2022","Mon Nov 28 11:13:04 UTC 2022","1290","","Login","","","","Login page - check 'Continue' text is displayed",""
+"passed","Mon Nov 28 11:13:01 UTC 2022","Mon Nov 28 11:13:02 UTC 2022","1379","","Login","","","","Login page - check 'Login to the Pro platform' text is displayed",""
+"failed","Mon Nov 28 11:13:09 UTC 2022","Mon Nov 28 11:13:15 UTC 2022","5312","","Login","","","","Login page - check 'Error' text is displayed - should fail",""
